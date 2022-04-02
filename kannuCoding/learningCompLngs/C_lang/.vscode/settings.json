@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 16,
+    "C_Cpp.dimInactiveRegions": true,
+    "files.associations": {
+        "lowerCaseOrNot.C": "cpp",
+        "stdio.h": "c",
+        "limits.h": "c",
+        "float.h": "c",
+        "type_traits": "cpp",
+        "cstdio": "cpp",
+        "typeinfo": "cpp",
+        "c2.h": "c"
+    }
+    
+}

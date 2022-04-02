@@ -1,0 +1,1 @@
+float earth_gravity = 9.807;

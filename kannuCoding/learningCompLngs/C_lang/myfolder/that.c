@@ -1,0 +1,1 @@
+float mars_gravity = 3.721;
